@@ -1,0 +1,26 @@
+body{
+background-image: radial-gradient(circle,#9bddff,#5072a7,#034694);
+}
+
+#one{
+position:relative;
+top:100px;
+left:350px;
+color:#034694;
+}
+table,tr,th{
+border:3px solid;
+font-size:30px;
+padding:10px;
+color:#034694;
+}
+h3{
+text-align:center;
+font-weight:bold;
+font-size:50px;
+color:#034694;}
+
+p{
+text-align:center;
+font-size:30px;
+color:#034694;}

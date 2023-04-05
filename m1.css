@@ -1,0 +1,17 @@
+h1{
+text-color:#FF0000;
+text-align:center;
+p{border-radius:20px;
+background: #FFA500;
+padding:20px;
+width:200px;
+height:150px;}
+
+#one{
+border-radius:20px;
+background: #FFA500;
+padding:20px;
+width:200px;
+height:150px;}
+body{
+background-image:radial-gradient(#9bddff,#6495bd,#0047ab);}
